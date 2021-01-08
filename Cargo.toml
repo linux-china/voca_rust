@@ -1,0 +1,16 @@
+[package]
+name = "voca"
+version = "0.1.0"
+edition = "2018"
+description = "Voca: ultimate JavaScript string library for Rust"
+authors = ["linux_china <libing.chen@gmail.com>"]
+keywords = ["string"]
+categories = ["text-processing"]
+documentation = "https://github.com/linux-china/voca-rust"
+readme = "README.md"
+homepage = "https://github.com/linux-china/voca-rust"
+repository = "https://github.com/linux-china/voca-rust.git"
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
